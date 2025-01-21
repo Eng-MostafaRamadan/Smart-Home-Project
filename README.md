@@ -15,11 +15,11 @@
   # 🔷Folder ➜Smart Door Lock:
   ⚠️this folder have 1 files and 1 picture , lets explain this files
   
-   ⚀ Key Features:
-      ⇨ Components Used:
-         1. 4x4 Matrix Keypad: Allows user input for the password.
-         2. LCD Display: Displays messages and feedback to the user.
-         3. Servo Motor: Controls the locking and unlocking of the door.​
+   ⚀ Key Features:​\n
+      ⇨ Components Used:​\n
+         1. 4x4 Matrix Keypad: Allows user input for the password.​\n
+         2. LCD Display: Displays messages and feedback to the user.​\n
+         3. Servo Motor: Controls the locking and unlocking of the door.​\n
          
    ⚁ Password Protection:
       1. A predefined password ("123*#") is stored in the program.
