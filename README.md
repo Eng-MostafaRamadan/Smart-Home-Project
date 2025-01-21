@@ -12,7 +12,7 @@
      
   4. this picture explain how we connect our devices
 
-  # 🔶Folder ➜Smart Door Lock:
+  # 🔷Folder ➜Smart Door Lock:
   ⚠️this folder have 1 files and 1 picture , lets explain this files
   
    This Arduino sketch is designed to control a secure door system with a keypad and servo motor. It uses a 4x4 matrix keypad for input, an LCD display for messages, and a servo motor to lock    or unlock the door. The user must enter a predefined password ("123*#") to open the door. If the entered password matches the stored one, the servo motor moves to unlock the door, and a       message indicating the door is open is displayed. After a short delay, the door automatically relocks. The system allows the user to close the door manually by pressing the '#' key.
