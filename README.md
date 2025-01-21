@@ -20,18 +20,23 @@
          1. 4x4 Matrix Keypad: Allows user input for the password.
          2. LCD Display: Displays messages and feedback to the user.
          3. Servo Motor: Controls the locking and unlocking of the door.​
+         
    ⚁ Password Protection:
       1. A predefined password ("123*#") is stored in the program.
       2. The system compares the user’s input with the predefined password.
       3. If the password matches, the door unlocks; otherwise, it displays an error message.
+      
    ⚂ Servo Motor Control:
       1. ServoOpen(): Unlocks the door by rotating the servo to an open position.
       2. ServoClose(): Locks the door by rotating the servo back to a closed position.
+      
    ⚃ Interactive Feedback:
       1. Displays messages like "Enter Password," "Door is Open," or "Wrong Password" on the LCD.
       2. Includes a loading() function for dynamic messages with a loading effect.
+      
    ⚄ Automatic Locking:
      1. After the door is opened, the system waits for a set time before automatically relocking.
+     
    ⚅ Manual Closure:
     1. Pressing the '#' key closes the door manually.
     
