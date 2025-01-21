@@ -3,9 +3,12 @@
  first of all we have 2 files :-
 
 # 🔶Code_NodeMCU_Alexa_ArduinoIotCloud_4Relays: folder:-
-this folder have 3 files and 1 picture , lets explain this files
+⚠️this folder have 3 files and 1 picture , lets explain this files
+
   1. arduino_secrets.h: Contains sensitive details such as Wi-Fi credentials (SSID, PASS) and a secret device key used for secure IoT communication​.
 
   2. thingProperties.h: Initializes IoT properties and configurations, linking cloud-controlled switches (like lights, fans, etc.) with the Arduino IoT Cloud. It defines events for device state changes and sets up a Wi-Fi connection handler​.
 
   3. Code_NodeMCU_Alexa_ArduinoIotCloud_4Relays.ino: Implements the core logic to manage relays connected to appliances. This script facilitates device control via Alexa and synchronizes with the IoT Cloud.
+     
+  4. this picture explain how we connect our devices
